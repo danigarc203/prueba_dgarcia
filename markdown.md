@@ -29,3 +29,5 @@ print(f'La temperatura en grados Farenheit es: {farenheit}')
 | Libro | 30 | 8.3 |
 | Boli| 0,70 | 9 |+
 | LIbreta| 1 | 6 |
+
+[Enlace a mi otro documento] (https://github.com/danigarc203/prueba_dgarcia/blob/8871fe1b942d0706b32f4bd7badeb9f0d377e922/markdown2.md)
